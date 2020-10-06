@@ -1,21 +1,22 @@
 @charset "utf-8";
 
 * {
-    color: #FDA172;
+    font-family: 'Goudy Old Style'
+    color: #893101;
 }
 
 set{
     display: block;
-    background-color: #FCAE1E;
-    font-family: Arial;
+    background-color: #FC6A03;
     width: 70%;
     margin: 5% 15% 10% 15%;
 }
 
 song {
     display: block;
-    background-color: #FC6A03;
-    margin: 30px;
+    background-color: #FCAE1E;
+    margin-top: 30px;
+    margin-bottom: 30px;
     border: 10px;
     border-radius: 20px;
     text-align: center;
@@ -33,14 +34,14 @@ artist {
     display: block;
     text-align: center;
 }
-        artist:before{content:"Artist: "; color:#FDA172;}
+        artist:before{content:"Artist: "; color:#893101;}
 
 genre {
     display: block;
 }
-        genre:before{content:"Genre: "; color: #FDA172;}
+        genre:before{content:"Genre: "; color:#893101;}
 
 year {
     display: block;
 }
-        year:before{content:"Year: "; color:#FDA172;}
+        year:before{content:"Year: "; color:#893101;}
