@@ -15,9 +15,9 @@ set{
 song {
     display: block;
     background-color: #FCAE1E;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    border: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 100px;
     border-radius: 50px;
     text-align: center;
 }
