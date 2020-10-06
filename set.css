@@ -8,12 +8,12 @@
 }
 
 opening {
-    font-size: 200%;
+    font-size: 250%;
     color: #FCAE1E;
   }
 
 sub-op {
-    font-size: 75%;
+    font-size: 150%;
     color: #FCAE1E;
 }
 
@@ -34,7 +34,7 @@ song {
 }
 
 title {
-    margin-top: 50px;
+    padding-top: 30px;
     display: block;
     text: italic;
     font-size: 20px;
@@ -52,7 +52,7 @@ genre {
         genre:before{content:"Genre: "; color:#893101;}
 
 year {
-    margin-bottom: 50px;
+    padding-bottom: 30px;
     display: block;
 }
         year:before{content:"Year: "; color:#893101;}
