@@ -1,7 +1,11 @@
 @charset "utf-8";
 
+* {
+    color: #FDA172;
+}
+
 set{
-    display:block;
+    display: block;
     background-color: #FCAE1E;
     font-family: Arial;
     width: 70%;
@@ -12,8 +16,8 @@ song {
     display: block;
     background-color: #FC6A03;
     margin: 30px;
-    border: 7px #DD571C;
-    border-radius: 10px;
+    border: 10px;
+    border-radius: 20px;
     text-align: center;
 }
 
