@@ -29,14 +29,14 @@ artist {
     display: block;
     text-align: center;
 }
-        artist:before{content:"Artist:"; color:#FDA172;}
+        artist:before{content:"Artist: "; color:#FDA172;}
 
 genre {
     display: block;
 }
-        genre:before{content:"Genre:"; color: #FDA172;}
+        genre:before{content:"Genre: "; color: #FDA172;}
 
 year {
     display: block;
 }
-        year:before{content:"Year:"; color:#FDA172;}
+        year:before{content:"Year: "; color:#FDA172;}
