@@ -5,6 +5,16 @@
     color: #893101;
 }
 
+opening {
+    font-size: 200%;
+    color: #FCAE1E;
+  }
+
+sub {
+    font-size: 75%;
+    color: #FCAE1E;
+}
+
 set{
     display: block;
     background-color: #FC6A03;
