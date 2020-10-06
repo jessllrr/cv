@@ -19,7 +19,7 @@ sub-op {
 
 set{
     display: block;
-    background-color: #FC6A03;
+    background-color: #ED7117;
     width: 70%;
     margin: 5% 15% 10% 15%;
 }
@@ -34,6 +34,7 @@ song {
 }
 
 title {
+    margin-top: 50px;
     display: block;
     text: italic;
     font-size: 20px;
@@ -51,6 +52,7 @@ genre {
         genre:before{content:"Genre: "; color:#893101;}
 
 year {
+    margin-bottom: 50px;
     display: block;
 }
         year:before{content:"Year: "; color:#893101;}
