@@ -1,6 +1,8 @@
 @charset "utf-8";
 
 * {
+    display: block;
+    text-align: center;
     font-family: "Trebuchet MS";
     color: #893101;
 }
@@ -29,20 +31,17 @@ song {
     margin-bottom: 20px;
     border: 100px;
     border-radius: 50px;
-    text-align: center;
 }
 
 title {
     display: block;
     text: italic;
-    text-align: center;
     font-size: 20px;
     color: #893101;
 }
 
 artist {
     display: block;
-    text-align: center;
 }
         artist:before{content:"Artist: "; color:#893101;}
 
