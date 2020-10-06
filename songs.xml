@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "set.css"?>
+
+<set>
+    <song>
+      <title>Self Control</title>
+      <artist>Frank Ocean</artist>
+      <genre>Pop/R&mp;B</genre>
+      <year>2016</year>
+    </song>
+
+    <song>
+      <title>Normal Girl</title>
+      <artist>SZA</artist>
+      <genre>Soul/R&amp;B</genre>
+      <year>2017</year>
+    </song>
+
+    <song>
+      <title>Cranes in the Sky</title>
+      <artist>Solange</artist>
+      <genre>Soul/R&amp;B</genre>
+      <year>2016</year>
+    </song>
+
+    <song>
+      <title>everything i wanted</title>
+      <artist>Billie Eilish</artist>
+      <genre>Alternative</genre>
+      <year>2019</year>
+    </song>
+
+    <song>
+      <title>In My Room</title>
+      <artist>Frank Ocean</artist>
+      <genre>Pop/R&amp;B</genre>
+      <year>2019</year>
+    </song>
+
+    <song>
+      <title>After the Storm</title>
+      <artist>Kali Uchis (ft. Tyler, the Creator)</artist>
+      <genre>R&amp;B</genre>
+      <year>2018</year>
+    </song>
+
+    <song>
+      <title>Yo x Ti, Tu x Mi</title>
+      <artist>ROSALIA</artist>
+      <genre>Latin Pop</genre>
+      <year>2019</year>
+    </song>
+
+    <song>
+      <title>Con Altura</title>
+      <artist>ROSALIA (ft. J Balvin, El Guincho)</artist>
+      <genre>Latin Pop</genre>
+      <year>2019</year>
+    </song>
+
+    <song>
+      <title>Vete</title>
+      <artist>Bad Bunny</artist>
+      <genre>Reggaeton</genre>
+      <year>2020</year>
+    </song>
+
+    <song>
+      <title>La Santa</title>
+      <artist>Bad Bunny (ft. Daddy Yankee)</artist>
+      <genre>Reggaeton</genre>
+      <year>2020</year>
+    </song>
+
+</set>

@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+set{
+    display:block;
+    background-color: #FCAE1E;
+    font-family: Arial;
+    width: 70%;
+    margin: 5% 15% 10% 15%;
+}
+
+song {
+    display: block;
+    background-color: #FC6A03;
+    margin: 30px;
+    border: 7px #DD571C;
+    border-radius: 10px;
+    text-align: center;
+}
+
+title {
+    display: block;
+    text: italic;
+    text-align: center;
+    font-size: 20px;
+    color: #893101;
+}
+
+artist {
+    display: block;
+    text-align: center;
+}
+        artist:before{content:"Artist:"; color:#FDA172;}
+
+genre {
+    display: block;
+}
+        genre:before{content:"Genre:"; color: #FDA172;}
+
+year {
+    display: block;
+}
+        year:before{content:"Year:"; color:#FDA172;}
