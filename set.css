@@ -34,7 +34,7 @@ song {
 }
 
 title {
-    padding-top: 30px;
+    padding-top: 15px;
     display: block;
     text: italic;
     font-size: 20px;
@@ -52,7 +52,7 @@ genre {
         genre:before{content:"Genre: "; color:#893101;}
 
 year {
-    padding-bottom: 30px;
+    padding-bottom: 15px;
     display: block;
 }
         year:before{content:"Year: "; color:#893101;}
